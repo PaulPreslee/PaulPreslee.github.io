@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PaulPreslee/PaulPreslee.github.io.git/static/css/main.2cabcf92.css",
+    "main.js": "/PaulPreslee/PaulPreslee.github.io.git/static/js/main.50ec377c.js",
+    "index.html": "/PaulPreslee/PaulPreslee.github.io.git/index.html",
+    "main.2cabcf92.css.map": "/PaulPreslee/PaulPreslee.github.io.git/static/css/main.2cabcf92.css.map",
+    "main.50ec377c.js.map": "/PaulPreslee/PaulPreslee.github.io.git/static/js/main.50ec377c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cabcf92.css",
+    "static/js/main.50ec377c.js"
+  ]
+}
